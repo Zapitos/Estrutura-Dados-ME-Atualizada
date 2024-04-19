@@ -78,8 +78,8 @@ public class Main {
         a16.setNome("Saulo");
         a17.setNome("Lucas");
 
-        lista.add(7,a16);
-        lista.add(8,a17);
+        lista.add(7, a16);
+        lista.add(8, a17);
 
         System.out.println(lista);
 
